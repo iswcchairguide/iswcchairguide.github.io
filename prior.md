@@ -1,7 +1,7 @@
 ---
 layout: page
 title: During the Prior ISWC
-navigation: 4
+navigation: 3
 ---
 
 ## During/shortly after the prior ISWC
